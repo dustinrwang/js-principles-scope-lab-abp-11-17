@@ -3,6 +3,6 @@ var customerName = 'bob';
 
 
 
-function setBestCustomer() {
+function setBestCustomer(bestCustomer) {
   const bestCustomer = 'not bob';
 }
