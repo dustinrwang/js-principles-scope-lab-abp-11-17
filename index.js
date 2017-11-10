@@ -4,5 +4,5 @@ var customerName = 'bob';
 
 
 function setBestCustomer(bestCustomer) {
-  bestCustomer = 'not bob';
+  'not bob';
 }
