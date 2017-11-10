@@ -21,4 +21,4 @@ function changeLeastFavoriteCustomer() {
 }
 
 const favoriteCustomer = 321;
-
+favoriteCustomer = 234;
