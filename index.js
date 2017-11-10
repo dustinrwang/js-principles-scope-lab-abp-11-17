@@ -20,5 +20,8 @@ function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 1234;
 }
 
-const favoriteCustomer = 321;
-favoriteCustomer = 234;
+function attemptTwoFavoriteCustomers() {
+  const favoriteCustomer = 321;
+  let favoriteCustomer = 2345;
+}
+  
