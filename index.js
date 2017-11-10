@@ -19,3 +19,6 @@ const leastFavoriteCustomer = 123;
 function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 1234;
 }
+
+const favoriteCustomer = 321;
+const favoriteCustomer = 234;
